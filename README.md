@@ -7,10 +7,10 @@ Second edit
 
 Third commit!
 
-Forth commit!
-
 Second branch stashed changes!
 
 Second branch stashed changes again!
 
 Removed fifth commit!
+
+Removed forth commit!
