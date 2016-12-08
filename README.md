@@ -9,8 +9,8 @@ Third commit!
 
 Forth commit!
 
-Second branch Fifth commit!
-
 Second branch stashed changes!
 
 Second branch stashed changes again!
+
+Removed fifth commit!
