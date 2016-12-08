@@ -10,3 +10,5 @@ Third commit!
 Forth commit!
 
 Second branch Fifth commit!
+
+Second branch stashed changes!
